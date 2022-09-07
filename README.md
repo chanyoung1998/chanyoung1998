@@ -40,4 +40,4 @@ Passionate about Data-science ML/DL✌🏻
 <hr>
 
 ![Chan Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanyoung1998&show_icons=true&theme=dark&count_private=true)  
-![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lms062111)](https://solved.ac/lms062111)
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lms062111)](https://solved.ac/lms062111)
