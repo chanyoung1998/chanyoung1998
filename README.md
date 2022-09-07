@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-Passionate about Data-science, ML/DL✌🏻
+Passionate about Data-science✌🏻  
+Passionate about Data-science ML/DL✌🏻  
 
 - 🌱 I’m currently learning Datascience
 - 👯 I’m looking to collaborate on anybody!!
@@ -38,5 +39,5 @@ Passionate about Data-science, ML/DL✌🏻
 </p>
 <hr>
 
-![Chan Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanyoung1998&show_icons=true&theme=dark&count_private=true)
+![Chan Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanyoung1998&show_icons=true&theme=dark&count_private=true)  
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lms062111)](https://solved.ac/lms062111)
