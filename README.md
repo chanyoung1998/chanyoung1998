@@ -22,7 +22,7 @@ Passionate about Data-science, ML/DL✌🏻
 - 👯 I’m looking to collaborate on anybody!!
 - 🤔 I’m looking for help with ML
 - 💬 Ask me about algorithm with c++ or python [here](https://github.com/chanyoung1998/Algorithm-Study/issues)
-- 📫 How to reach me: sabin5105@gmail.com | [instagram - @jchan_0](https://www.instagram.com/jchan_0)
+- 📫 How to reach me: jungchanyoung31@gmail.com | [instagram - @jchan_0](https://www.instagram.com/jchan_0)
 - ⚡ Fun fact: I am a B-boy like break dancer🤸🏼
 
 <hr>
