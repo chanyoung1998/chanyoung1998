@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-Passionate about Data-science✌🏻
-Passionate aboud ML/DL
+- Passionate about Data-science✌🏻
+- Passionate aboud ML/DL
 
 - 🌱 I’m currently learning Datascience
 - 👯 I’m looking to collaborate on anybody!!
