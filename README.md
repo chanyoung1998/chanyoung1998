@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 Passionate about Data-science✌🏻  
 Passionate about ML/DL✌🏻  
 
-- 🌱 I’m currently learning Datascience
+- 🌱 I’m currently learning BackEnd - Spring!
 - 👯 I’m looking to collaborate on anybody!!
-- 🤔 I’m looking for help with ML
-- 💬 Ask me about algorithm with c++ or python [here](https://github.com/chanyoung1998/Algorithm-Study/issues)
+- 💬 Ask me about algorithm with c++ or python or Java [here](https://github.com/chanyoung1998/Algorithm-Study/issues)
 - 📫 How to reach me: jungchanyoung31@gmail.com | [instagram - @jchan_0](https://www.instagram.com/jchan_0)
 - ⚡ Fun fact: I am a B-boy like break dancer🤸🏼
 
