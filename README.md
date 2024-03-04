@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-Passioate about BackEnd !
-Passionate about Data-science✌🏻  
-Passionate about ML/DL✌🏻  
+Passioate about BackEnd ! 
 
 - 🌱 I’m currently learning BackEnd - Spring!
 - 👯 I’m looking to collaborate on anybody!!
