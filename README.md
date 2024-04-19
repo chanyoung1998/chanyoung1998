@@ -8,7 +8,7 @@ it's better to regret doing it than not doing.
 
 ### Me
 ```java
-Class Me{
+Class Me implemets Person{
   public static final String NAME = "정찬영";
   public static final URL GITHUB = "https://github.com/chanyoung1998";
   public static final URL BLOG = "https://velog.io/@chanyoung1998";
