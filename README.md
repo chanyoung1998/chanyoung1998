@@ -1,42 +1,52 @@
-<!--
-**chanyoung1998/chanyoung1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### Hi there 👋
-
-Passioate about BackEnd ! 
-
-- 🌱 I’m currently learning BackEnd - Spring!
-- 👯 I’m looking to collaborate on anybody!!
-- 💬 Ask me about algorithm with c++ or python or Java [here](https://github.com/chanyoung1998/Algorithm-Study/issues)
-- 📫 How to reach me: jungchanyoung31@gmail.com | [instagram - @jchan_0](https://www.instagram.com/jchan_0)
-- ⚡ Fun fact: I am a B-boy like break dancer🤸🏼
-
-<hr>
-<p>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=white"/> 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-</p>
-<hr>
-
+### ChanYoung Joung [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanyoung1998&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Chan Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanyoung1998&show_icons=true&theme=dark&count_private=true)  
+Thank you for visiting my github!
+```
+# My Motto!
+it's better to regret doing it than not doing.
+```
+
+### Me
+```java
+Class Me{
+  public static final String NAME = "정찬영";
+  public static final URL GITHUB = "https://github.com/chanyoung1998";
+  public static final URL BLOG = "https://velog.io/@chanyoung1998";
+  public static final Email EMAIL = "lms062111@naver.com";
+
+  @Override
+  public void techSkills(){
+    System.out.println("Language : Python, Java");
+    System.out.println("Spring : Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Spring Data Redis, Spring Batch");
+    System.out.println("Database : MySQL, PostgreSQL");
+    System.out.println("Other : Redis, RabbitMQ, Kafka, Docker, kubernetes);
+  }
+
+  @Override
+  public void works(){
+    System.out.println("I work as a backend engineer at Naver Labs Perception Team");
+    System.out.println("I worked as a backend engineer at Filedu, Pulda Mobile Application")
+  }
+
+  @Override
+  public void hobby(){
+    System.out.println("I love vintage!");
+    System.out.println("I have danced Breaking since 2017");
+    System.out.println("I like sports! soccer, basketball, and all sports with balls!");
+    System.out.println("My favorite singer is Taylor Swift, Charlie Puth, Maroon5 !!");
+  }
+
+  @Override
+  public void motto(){
+    System.out.println("it's better to regret doing it than not doing.");
+  }
+}
+```
+### Contribute
+- `spring/spring-data-redis` [Wait for lock in DefaultRedisCacheWriter.doLock()](https://github.com/spring-projects/spring-data-redis/pull/2879)
+- `xtreme1` [fix : AnnotationStatus of Data not changing appropriatly when submitting](https://github.com/xtreme1-io/xtreme1/pull/238)
+
+
+### Problem Solving
+
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lms062111)](https://solved.ac/lms062111)
